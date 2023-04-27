@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baranbyal (Baran Baris Yalcin)
 - 👀 I’m interested in dancing
-- 🌱 I’m currently learning machine learning and django
+- 🌱 I’m currently learning java and backend
 - 📫 How to reach me baran.b.yalcin@live.com
 
 <!---
