@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @baranbyal (Baran Baris Yalcin)
-- 👀 I’m interested in dancing
+- 👋 Hi, I’m @baranbyal
 - 🌱 I’m currently learning java and backend
 
 <!---
