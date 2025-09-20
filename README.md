@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @baranbyal (Baran Baris Yalcin)
 - 👀 I’m interested in dancing
 - 🌱 I’m currently learning java and backend
-- 📫 How to reach me baran.b.yalcin@live.com
 
 <!---
 baranbyal/baranbyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
